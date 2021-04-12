@@ -40,7 +40,7 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldorawat8&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldorawat&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
 
@@ -49,8 +49,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/palashrawat/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:palash.rawat@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-palaash.rawat@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/palashrawat/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Palash%20Rawat%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:palash.rawat@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-palash.rawat@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Palash Rawat](https://github.com/ronaldorawat)
