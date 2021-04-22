@@ -4,12 +4,11 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Frontend Developer with 2+ years of experience.
-- 💼 &nbsp; Working as a Associate Software Engineer at PowerSchool India Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Web Development.
+- 💼 💻 &nbsp; Working as a Associate Software Engineer at PowerSchool India Private Limited.
+- 🌱 &nbsp; Learning more about Systems Design and Web Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
