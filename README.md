@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/rawat"><img src="https://api.daily.dev/devcards/bc3cefaa76d745fb804c7948f023c319.png?r=9ry" width="400" alt="Ronaldo's Dev Card"/></a>
+
 <h2> Hey there! 👋 I am Palash.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
