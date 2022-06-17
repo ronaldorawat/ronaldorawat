@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Frontend Developer with 2+ years of experience.
+- 🎓 &nbsp; Frontend Developer with 3+ years of experience.
 - 💼 💻 &nbsp; Working as a Associate Software Engineer at PowerSchool India Private Limited.
 - 🌱 &nbsp; Learning more about Systems Design and Web Development.
 
