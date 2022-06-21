@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Frontend Developer with 3+ years of experience.
-- 💼 💻 &nbsp; Working as a Associate Software Engineer at PowerSchool India Private Limited.
+- 💼 💻 &nbsp; Working as a Software Engineer I at PowerSchool India Private Limited.
 - 🌱 &nbsp; Learning more about Systems Design and Web Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
